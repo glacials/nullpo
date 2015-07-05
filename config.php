@@ -6,7 +6,7 @@ $dburl = parse_url($_ENV['CLEARDB_DATBASE_URL']);
 
 $dbhost = $dburl['host'];
 $dbport = $dburl['port'];
-$dbname = $dburl['path'];
+$dbname = ltrim($dburl['path'], '/');
 $dbuser = $dburl['user'];
 $dbpasswd = $dburl['pass'];
 
