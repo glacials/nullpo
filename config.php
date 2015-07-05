@@ -1,12 +1,14 @@
 <?php
-// phpBB 3.0.x auto-generated configuration file
-// Do not change anything in this file!
+
 $dbms = 'mysqli';
-$dbhost = 'localhost';
-$dbport = '';
-$dbname = 'nullpo';
-$dbuser = 'root';
-$dbpasswd = 'N3v3rknowingly';
+
+$dburl = parse_url($_ENV['CLEARDB_DATBASE_URL']);
+
+$dbhost = $dburl['host'];
+$dbport = $dburl['port'];
+$dbname = $dburl['path'];
+$dbuser = $dburl['user'];
+$dbpasswd = $dburl['pass'];
 
 $table_prefix = 'phpbb_';
 $acm_type = 'file';
