@@ -1,0 +1,7 @@
+picture of a lizard
+
+<img src="http://animals.nationalgeographic.com/staticfiles/NGS/Shared/StaticFiles/animals/images/primary/frilled-lizard.jpg" alt="picture of a lizard" title="picture of a lizard" />
+<img src="http://www.yowazzup.com/blog/images/lizard-couch.jpg" alt="picture of a lizard" title="picture of a lizard" />
+<img src="http://derek4messiah.files.wordpress.com/2009/10/lizard.jpg" alt="picture of a lizard" title="picture of a lizard" />
+<img src="http://mail.colonial.net/~hkaiter/animalimages/horned-lizard-blood.jpg" alt="picture of a lizard" title="picture of a lizard" />
+<img src="http://www.nsf.gov/od/lpa/news/press/images/lizard_big.jpg" alt="picture of a lizard" title="picture of a lizard" />

@@ -1,0 +1,7 @@
+images on your pictures
+
+<img src="http://editorial.jpress.co.uk/Includes/Images/HCCN/have-your-say2.jpg" alt="images on your pictures" title="images on your pictures" />
+<img src="http://www.alumni.bham.ac.uk/images/your.bham_v2a.jpg" alt="images on your pictures" title="images on your pictures" />
+<img src="http://www.ahrq.gov/consumer/5tipseng/fig1.gif" alt="images on your pictures" title="images on your pictures" />
+<img src="http://www.microsoft.com/library/media/1033/windowsxp/images/using/mobility/expert/cassette-adapter-small.jpg" alt="images on your pictures" title="images on your pictures" />
+<img src="http://www.heyokay.com/images/what%27s%2520your%2520number.jpg" alt="images on your pictures" title="images on your pictures" />

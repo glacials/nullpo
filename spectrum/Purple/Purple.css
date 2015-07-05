@@ -1,0 +1,7 @@
+body {
+	background: #474747 url('body.gif') repeat-y center top;
+}
+#header {
+	background: #8216da url('header.gif') repeat-x;
+}
+#navigation {background: #8216da url('grdnt.jpg') repeat-x;}

@@ -1,0 +1,7 @@
+pics of the bridge
+
+<img src="http://www.humberbridge.co.uk/resources/humber_bridge_shot1.jpg" alt="pics of the bridge" title="pics of the bridge" />
+<img src="http://www.sftravel.com/images/goldengate/golden-gate-bridge-3.jpg" alt="pics of the bridge" title="pics of the bridge" />
+<img src="http://www.codinghorror.com/blog/images/butterfly_bridge.jpg" alt="pics of the bridge" title="pics of the bridge" />
+<img src="http://www.alumni.bham.ac.uk/images/events/Tower_Bridge__by_night_.jpg" alt="pics of the bridge" title="pics of the bridge" />
+<img src="http://www.undiscoveredscotland.co.uk/queensferry/forthroadbridge/images/bridge-450.jpg" alt="pics of the bridge" title="pics of the bridge" />

@@ -1,0 +1,7 @@
+pic inside
+
+<img src="http://www.lermanet.com/scientologynews/images/penthousecover.jpg" alt="pic inside" title="pic inside" />
+<img src="http://www.pinkfloyd.co.uk/insideOut/media/insideOut.jpg" alt="pic inside" title="pic inside" />
+<img src="http://www.shinybinary.com/images/art/inside.jpg" alt="pic inside" title="pic inside" />
+<img src="http://forevergeek.com/images/IntelInside_2.jpg" alt="pic inside" title="pic inside" />
+<img src="http://www.babydee.org/Albums/SafeInsideTheDay.jpg" alt="pic inside" title="pic inside" />

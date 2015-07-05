@@ -1,0 +1,7 @@
+url for pics
+
+<img src="http://www.unicom.com/pw/web-intro/url.gif" alt="url for pics" title="url for pics" />
+<img src="http://healthlinks.washington.edu/howto/navigating/url.gif" alt="url for pics" title="url for pics" />
+<img src="http://www.realeditor.com/images/site/your_url.jpg" alt="url for pics" title="url for pics" />
+<img src="http://www.truecafe.net/doc/img/url_log.gif" alt="url for pics" title="url for pics" />
+<img src="http://tortoisesvn.net/docs/release/TortoiseSVN_en/images/ExportURL.png" alt="url for pics" title="url for pics" />

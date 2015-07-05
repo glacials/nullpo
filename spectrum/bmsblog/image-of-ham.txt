@@ -1,0 +1,7 @@
+image of ham
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/f/ff/NCI_clove_ham.jpg" alt="image of ham" title="image of ham" />
+<img src="http://www.hatfieldqualitymeatsfoodservice.com/products/images/ham-p1.jpg" alt="image of ham" title="image of ham" />
+<img src="http://sethgodin.typepad.com/seths_blog/images/2007/12/06/ham.jpg" alt="image of ham" title="image of ham" />
+<img src="http://www2.gol.com/users/quakers/HamSpeaks.jpg" alt="image of ham" title="image of ham" />
+<img src="http://www.denningers.com/uploads/images/Golden%2520Glazed%2520Ham.jpg" alt="image of ham" title="image of ham" />

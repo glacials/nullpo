@@ -1,0 +1,7 @@
+bios logo
+
+<img src="http://www.plentyofsoft.com/wp-content/uploads/2008/09/bios-logo-changer-23280-1.jpg" alt="bios logo" title="bios logo" />
+<img src="https://unstable.nl/images/bios.jpg" alt="bios logo" title="bios logo" />
+<img src="http://deepthought.ena.si/logo/bios/award.png" alt="bios logo" title="bios logo" />
+<img src="http://www.ixbt.com/mainboard/asus/m2r32-mvp/amd-580x-logo.jpg" alt="bios logo" title="bios logo" />
+<img src="http://www.pcsx.net/screenshots/bios.jpg" alt="bios logo" title="bios logo" />

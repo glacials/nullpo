@@ -1,0 +1,12 @@
+body {
+  font-family: helvetica;
+}
+
+h1, h2 {
+  letter-spacing: -1px;
+  text-align: center;
+}
+
+a:visited { 
+  color: blue;
+}

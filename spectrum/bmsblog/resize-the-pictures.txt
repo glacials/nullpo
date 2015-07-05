@@ -1,0 +1,7 @@
+resize the pictures
+
+<img src="http://www.microsoft.com/library/media/1033/windowsxp/using/digitalphotography/images/enhance_resize_01.jpg" alt="resize the pictures" title="resize the pictures" />
+<img src="http://www.vso-software.fr/products/image_resizer/how-to-compress-photos/how-to-resize-images-guide_clip_image001_0002.jpg" alt="resize the pictures" title="resize the pictures" />
+<img src="http://www.crystalxp.net/galerie/img/img-software-liquid-resize-retarget-for-windows-liquid-resize-9572.jpg" alt="resize the pictures" title="resize the pictures" />
+<img src="http://softporal.ucoz.ru/Images3/PictureResizeGenius_wm.JPG" alt="resize the pictures" title="resize the pictures" />
+<img src="http://z.about.com/d/graphicssoft/1/0/_/-/3/resize-practice.jpg" alt="resize the pictures" title="resize the pictures" />

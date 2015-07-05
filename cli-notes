@@ -1,0 +1,50 @@
+!!,!$
+  !! repeat whole command
+    e.g. sudo !!
+    e.g. echo "!!" > foo.sh
+  !$ repeat last arg
+    e.g. vim test.sh
+  chmod +x !$
+^foo^bar
+  re-executes previous command, replacing foo with bar
+C-z and fg,bg
+  After a C-z:
+    bg resumes the process in background
+    fg brings it back to foreground (and resumes)
+  e.g. C-z a vim session to compile
+cp foo{1,2}
+  e.g. touch test1
+       mv test{1,2}
+  e.g. touch foo
+       cp foo{,.bak}
+  e.g. touch {1,2,3,4}test
+curl ifconfig.me
+  gets external ip address
+pushd,popd
+  stack of working directories
+| piping
+  e.g. fortune | cowsay
+  e.g. ls -l | grep csci
+nl
+  adds line numbers
+  e.g. ls -l | nl
+which
+  get the path to a program
+  e.g. which ls
+  e.g. which which
+more,less
+  e.g. ls -R | less
+`` backticks
+  e.g. diff `which more` `which less`
+~ expansion
+  e.g. cd ~ben
+tab completion with wildcards
+  e.g. rm *test <TAB><TAB>
+  e.g. rm *.txt <TAB><TAB>
+C-u
+  deletes whole line
+C-t
+  swaps current character with previous character
+tail -f
+follows a log (live)
+  e.g. tail -f /var/log/apache2/access_log

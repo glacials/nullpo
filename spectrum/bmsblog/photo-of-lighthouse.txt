@@ -1,0 +1,7 @@
+photo of lighthouse
+
+<img src="http://www.thelensflare.com/large/lighthouse_1367.jpg" alt="photo of lighthouse" title="photo of lighthouse" />
+<img src="http://apod.nasa.gov/apod/image/0711/lighthouse_westcott_big.jpg" alt="photo of lighthouse" title="photo of lighthouse" />
+<img src="http://www.lisisoft.com/imglisi/5/Screensavers/65045MajesticLighthouse.jpg" alt="photo of lighthouse" title="photo of lighthouse" />
+<img src="http://www.outbackphoto.com/outbackphoto_db/2003_added_02/x01_0004_0782_PigeonPointLighthouse_proof20030331rel.jpg" alt="photo of lighthouse" title="photo of lighthouse" />
+<img src="http://www.dwphotoshop.com/photoshop/lighting/lighthouse2.jpg" alt="photo of lighthouse" title="photo of lighthouse" />

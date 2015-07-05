@@ -1,0 +1,7 @@
+les roches
+
+<img src="http://www.euroeducation.net/image/les_roches.jpg" alt="les roches" title="les roches" />
+<img src="http://www.accessiblefrance.com/images/Les_Roches_n2.jpg" alt="les roches" title="les roches" />
+<img src="http://www.lesroches.edu/common/img/library/LRB_transfert.jpg" alt="les roches" title="les roches" />
+<img src="http://www.hotel-les-roches-lavandou.cote.azur.fr/images/imgh-hotel-les-roches-lavandou.jpg" alt="les roches" title="les roches" />
+<img src="http://www.cramphorn.demon.co.uk/images/lesroches.jpg" alt="les roches" title="les roches" />

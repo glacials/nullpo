@@ -1,0 +1,7 @@
+pictures from mars
+
+<img src="http://www.fortunecity.com/tatooine/watchmen/974/mars-sea2-sm.jpg" alt="pictures from mars" title="pictures from mars" />
+<img src="http://www.daviddarling.info/images/Mars_panorama.jpg" alt="pictures from mars" title="pictures from mars" />
+<img src="http://img.dailymail.co.uk/i/pix/2008/01_04/LifeOnMarsBARC_468x290.jpg" alt="pictures from mars" title="pictures from mars" />
+<img src="http://www.daviddarling.info/images/Mars_surface_Viking.jpg" alt="pictures from mars" title="pictures from mars" />
+<img src="http://apod.nasa.gov/apod/image/0401/mars_spiritcolor_PIA05015_c1.jpg" alt="pictures from mars" title="pictures from mars" />

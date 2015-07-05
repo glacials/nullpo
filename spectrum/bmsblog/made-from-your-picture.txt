@@ -1,0 +1,7 @@
+made from your picture
+
+<img src="http://www.artneedlecraft.com/gaspard/images/custom_diagram01.jpg" alt="made from your picture" title="made from your picture" />
+<img src="http://www.usa.canon.com/uploadedimages/FCK/Image/Reverie%2520Interview/Aviator_Shades_1.jpg" alt="made from your picture" title="made from your picture" />
+<img src="http://www.wired.com/images/article/full/2008/04/mind_decision_630px.jpg" alt="made from your picture" title="made from your picture" />
+<img src="http://seankovacs.com/wp-content/uploads/2009/03/granddialer1.png" alt="made from your picture" title="made from your picture" />
+<img src="http://dev.mysql.com/doc/query-browser/ru/images/confirmchanges.png" alt="made from your picture" title="made from your picture" />

@@ -1,0 +1,7 @@
+image of fires in greece
+
+<img src="http://earthobservatory.nasa.gov/images/imagerecords/18000/18939/Greece_AMO_2007238_lrg.jpg" alt="image of fires in greece" title="image of fires in greece" />
+<img src="http://esamultimedia.esa.int/images/EarthObservation/Envisat/Greece_Fires/Greece_fire_map.jpg" alt="image of fires in greece" title="image of fires in greece" />
+<img src="http://earthobservatory.nasa.gov/images/imagerecords/7000/7996/greece_tmo_2007238_lrg.jpg" alt="image of fires in greece" title="image of fires in greece" />
+<img src="http://turkeymacedonia.files.wordpress.com/2009/08/greece-fires.jpg" alt="image of fires in greece" title="image of fires in greece" />
+<img src="http://www.vgt.vito.be/ASimage/i107_sFiresGreece_20070826.jpg" alt="image of fires in greece" title="image of fires in greece" />

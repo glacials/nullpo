@@ -1,0 +1,7 @@
+people with photos
+
+<img src="http://www.astro.ufl.edu/images/People/People_.jpg" alt="people with photos" title="people with photos" />
+<img src="http://www.stutteringhelp.org/Portals/english/18_famous_people.jpg" alt="people with photos" title="people with photos" />
+<img src="http://www.jwst.nasa.gov/images/people.jpg" alt="people with photos" title="people with photos" />
+<img src="http://www.mariestopes.org.uk/imagecontent/youngPeople.jpg" alt="people with photos" title="people with photos" />
+<img src="http://www.cjsni.gov.uk/uploads/images/YouthZone_chars_01.jpg" alt="people with photos" title="people with photos" />

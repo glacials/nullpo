@@ -1,0 +1,10 @@
+body {
+	background: #313131 url('body.gif') repeat-y center top;
+}
+#header {
+	background: #cecece url('header.gif') repeat-x;
+}
+#navigation {background: #cecece url('grdnt.jpg') repeat-x;}
+h1 {
+	color: red;
+}

@@ -1,0 +1,7 @@
+a xp image
+
+<img src="http://gadgets.emedia.com.my/img/windows_xp_logo.jpg" alt="a xp image" title="a xp image" />
+<img src="http://www.guidebookgallery.org/pics/gui/desktop/empty/winxppro.png" alt="a xp image" title="a xp image" />
+<img src="http://www.thetechherald.com/media/images/200815/Windows_XP_Logo_2.jpg" alt="a xp image" title="a xp image" />
+<img src="http://www.gadgettastic.com/images/xp.jpg" alt="a xp image" title="a xp image" />
+<img src="http://www.transformxptovista.com/screenshot%2520Transform%2520XP%2520to%2520Vista%2520Big.jpg" alt="a xp image" title="a xp image" />

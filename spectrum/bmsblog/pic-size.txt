@@ -1,0 +1,7 @@
+pic size
+
+<img src="http://feministing.com/imageStorage/size20.jpg" alt="pic size" title="pic size" />
+<img src="http://faculty.washington.edu/chudler/size.gif" alt="pic size" title="pic size" />
+<img src="http://upload.wikimedia.org/wikipedia/commons/b/b9/Terrestrial_planet_size_comparisons.jpg" alt="pic size" title="pic size" />
+<img src="http://www.aerospaceweb.org/question/design/size/size-comparison.jpg" alt="pic size" title="pic size" />
+<img src="http://imgs.xkcd.com/store/imgs/actual_size_200.png" alt="pic size" title="pic size" />

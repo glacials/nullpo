@@ -1,0 +1,7 @@
+picture of a cottage
+
+<img src="http://www.stable-cottage-potterne.co.uk/images/Self-Catering_Cottage_Potterne.jpg" alt="picture of a cottage" title="picture of a cottage" />
+<img src="http://www.joyfullymodest.com/i//The_Joyful_Cottage_Angel_2_1.jpg" alt="picture of a cottage" title="picture of a cottage" />
+<img src="http://www.wealddown.co.uk/images%2520historic%2520building/hangleton_medieval_cottage.jpg" alt="picture of a cottage" title="picture of a cottage" />
+<img src="http://www.warrencottage.com/graphics/cottage3.jpg" alt="picture of a cottage" title="picture of a cottage" />
+<img src="http://cedarcottagebc.com/wp-content/uploads/2007/07/cedar_cottage_exterior.jpg" alt="picture of a cottage" title="picture of a cottage" />

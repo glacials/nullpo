@@ -1,0 +1,7 @@
+using an image
+
+<img src="http://www.blogtrepreneur.com/wp-content/uploads/online-tools-business-should-be-using.jpg" alt="using an image" title="using an image" />
+<img src="http://upload.wikimedia.org/wikipedia/commons/c/c2/Using_the_caliper_new_en.gif" alt="using an image" title="using an image" />
+<img src="http://www.nvidia.com/docs/IO/65270/WRF_Acceleration_using_CUDA.jpg" alt="using an image" title="using an image" />
+<img src="http://dev.mysql.com/doc/refman/5.1/en/images/scaleout.png" alt="using an image" title="using an image" />
+<img src="http://www.mathworks.com/cmsimages/34188_wm_041609_final_image.JPG" alt="using an image" title="using an image" />

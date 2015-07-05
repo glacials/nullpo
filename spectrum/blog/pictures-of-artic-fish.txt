@@ -1,0 +1,7 @@
+pictures of artic fish
+
+<img src="http://www.samuelsandsonseafood.com/products/large_photo/CHAR.jpg" alt="pictures of artic fish" title="pictures of artic fish" />
+<img src="http://oceanexplorer.noaa.gov/explorations/02arctic/logs/sep5/media/pinky_600.jpg" alt="pictures of artic fish" title="pictures of artic fish" />
+<img src="http://www.chartingnature.com/img%255Cfish%255C2060-artic-cod.jpg" alt="pictures of artic fish" title="pictures of artic fish" />
+<img src="http://www.landbigfish.com/images/fish/LBF_Artic_Grayling.jpg" alt="pictures of artic fish" title="pictures of artic fish" />
+<img src="http://www.chartingnature.com/img%255Cfish%255C1010-artic-char.jpg" alt="pictures of artic fish" title="pictures of artic fish" />

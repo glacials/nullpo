@@ -1,0 +1,7 @@
+cnn photos
+
+<img src="http://www.solarnavigator.net/media/media_images/cnn_twin_towers_explosion_new_york_september_eleven.jpg" alt="cnn photos" title="cnn photos" />
+<img src="http://www.fresnobeehive.com/archives/upload/2007/09/stupid-cnn2.png" alt="cnn photos" title="cnn photos" />
+<img src="http://www.huffingtonpost.com/thenewswire/archive/2007/06/27/ParisonCNN.JPG" alt="cnn photos" title="cnn photos" />
+<img src="http://www.blackfive.net/photos/uncategorized/cnn_in_the_crosshairs.jpg" alt="cnn photos" title="cnn photos" />
+<img src="http://graphics8.nytimes.com/images/2009/04/27/business/27cnn01-600.jpg" alt="cnn photos" title="cnn photos" />

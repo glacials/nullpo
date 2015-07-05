@@ -1,0 +1,7 @@
+from taking photos
+
+<img src="http://wilderdom.com/images/RiskNotTakingRisksCartoon.jpg" alt="from taking photos" title="from taking photos" />
+<img src="http://upload.wikimedia.org/wikipedia/commons/c/cb/Beardsley,_Aubrey_1872-1898_-_Bathyllus_taking_the_pose_(1896).jpg" alt="from taking photos" title="from taking photos" />
+<img src="http://www.vva.org/09convention/Taking_Chance.jpeg" alt="from taking photos" title="from taking photos" />
+<img src="http://www.musicomh.com/films/images/taking-woodstock.jpg" alt="from taking photos" title="from taking photos" />
+<img src="http://indiauncut.com/uploads/images/jesus-and-mo-on-taking-offence_thumb.jpg" alt="from taking photos" title="from taking photos" />

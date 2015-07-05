@@ -1,0 +1,7 @@
+character photos
+
+<img src="http://www.geekologie.com/2008/02/19/character-evolution.jpg" alt="character photos" title="character photos" />
+<img src="http://blog.craftzine.com/shawnimals_character_avatars.png" alt="character photos" title="character photos" />
+<img src="http://wefunction.com/wp-content/uploads/2008/11/function_character_pack.jpg" alt="character photos" title="character photos" />
+<img src="http://imagecache5.art.com/p/LRG/9/938/PVOX000Z/its-all-about-character.jpg" alt="character photos" title="character photos" />
+<img src="http://www.klm32.com/Images/CharacterMapXP.gif" alt="character photos" title="character photos" />

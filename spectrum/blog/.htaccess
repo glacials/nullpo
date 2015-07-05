@@ -1,0 +1,7 @@
+RewriteEngine     On
+RewriteRule ^category/([^/\.]+)/?$  index.php?category=$1   [L]
+RewriteRule ^category/([^/\.]+)/page/([0-9]+)/?$  index.php?category=$1&page=$2   [L]
+RewriteRule ^download/([^/\.]+)/?$  download.php?id=$1   [L]
+RewriteRule ^page/([0-9]+)/?$  index.php?page=$1   [L]
+RewriteRule ^([^/\.]+)/?$    index.php?id=$1     [L]
+RewriteRule ^rss20.xml$    index.php?action=rss     [L]

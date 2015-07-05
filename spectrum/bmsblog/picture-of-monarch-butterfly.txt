@@ -1,0 +1,7 @@
+picture of monarch butterfly
+
+<img src="http://fohn.net/monarch-butterfly-pictures/monarch-butterfly_large.jpg" alt="picture of monarch butterfly" title="picture of monarch butterfly" />
+<img src="http://www.inhs.illinois.edu/inhsreports/sep-oct99/monarch.gif" alt="picture of monarch butterfly" title="picture of monarch butterfly" />
+<img src="http://www.butterflyutopia.com/BIG/019a-monarch_butterfly.jpg" alt="picture of monarch butterfly" title="picture of monarch butterfly" />
+<img src="http://www.cirrusimage.com/butterfly/monarch_butterfly_010.jpg" alt="picture of monarch butterfly" title="picture of monarch butterfly" />
+<img src="http://fohn.net/monarch-butterfly-pictures/monarch-butterfly_800x600.jpg" alt="picture of monarch butterfly" title="picture of monarch butterfly" />

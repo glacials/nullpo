@@ -1,0 +1,7 @@
+modify boot image
+
+<img src="http://www.scotthofer.com/How%2520to%2520triple%2520boot%2520XP%2520Vista%2520Linux_files/image004.jpg" alt="modify boot image" title="modify boot image" />
+<img src="http://www.novell.com/documentation/zenworks65/dmadmin/graphics/zimgboot_a.gif" alt="modify boot image" title="modify boot image" />
+<img src="http://www.nirmaltv.com/wp-content/uploads/2008/05/boot-loader1.png" alt="modify boot image" title="modify boot image" />
+<img src="http://www.novell.com/documentation/zenworks65/dmadmin/graphics/zimgboot_sp2_a.gif" alt="modify boot image" title="modify boot image" />
+<img src="http://teamapproach.ca/trouble/images/boot.ini.jpg" alt="modify boot image" title="modify boot image" />

@@ -1,0 +1,47 @@
+08.08.2010 22:45
+savita-camellia.nullpo.cc - HTTP/1.0 200 OK
+Content-Type: text/xml; charset=ISO-8859-1
+Set-Cookie: PREF=ID=31914c1dc1d8c356:TM=1281307532:LM=1281307532:S=EnTbt3k9mIbwYFDG; expires=Tue, 07-Aug-2012 22:45:32 GMT; path=/; domain=.google.com
+X-Content-Type-Options: nosniff
+Date: Sun, 08 Aug 2010 22:45:32 GMT
+Server: psfe
+Content-Length: 305
+X-XSS-Protection: 1; mode=block
+Expires: Sun, 08 Aug 2010 22:45:32 GMT
+Cache-Control: private
+
+<?xml version="1.0"?>
+<methodResponse><params>
+  <param><value><struct>
+    <member>
+      <name>flerror</name><value><boolean>0</boolean></value>
+    </member>
+    <member>
+      <name>message</name><value>Thanks for the ping.</value>
+    </member>
+  </struct></value></param>
+</params></methodResponse>
+
+musad.nullpo.cc - HTTP/1.0 200 OK
+Content-Type: text/xml; charset=ISO-8859-1
+Set-Cookie: PREF=ID=8044fea7316be524:TM=1281307532:LM=1281307532:S=3MqeNxt4UuxIt2sD; expires=Tue, 07-Aug-2012 22:45:32 GMT; path=/; domain=.google.com
+X-Content-Type-Options: nosniff
+Date: Sun, 08 Aug 2010 22:45:32 GMT
+Server: psfe
+Content-Length: 305
+X-XSS-Protection: 1; mode=block
+Expires: Sun, 08 Aug 2010 22:45:32 GMT
+Cache-Control: private
+
+<?xml version="1.0"?>
+<methodResponse><params>
+  <param><value><struct>
+    <member>
+      <name>flerror</name><value><boolean>0</boolean></value>
+    </member>
+    <member>
+      <name>message</name><value>Thanks for the ping.</value>
+    </member>
+  </struct></value></param>
+</params></methodResponse>
+

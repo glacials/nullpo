@@ -1,0 +1,7 @@
+new skateboard
+
+<img src="http://www.tingtop.com.tw/Product-2002122092739.jpg" alt="new skateboard" title="new skateboard" />
+<img src="http://www.chucksconnection.com/skateboard/skateboard03.jpg" alt="new skateboard" title="new skateboard" />
+<img src="http://hellforleathermagazine.com/images/bockerl_011.jpg" alt="new skateboard" title="new skateboard" />
+<img src="http://img.diytrade.com/cdimg/384253/2962831/0/1163864379/Landski_a_new_skateboard_with_14wheels.jpg" alt="new skateboard" title="new skateboard" />
+<img src="http://boardperso.com/images/news/newboards.jpg" alt="new skateboard" title="new skateboard" />

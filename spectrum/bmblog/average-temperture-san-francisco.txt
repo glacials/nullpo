@@ -1,0 +1,7 @@
+average temperture san francisco
+
+<img src="http://www.rssweather.com/climate/California/San%2520Francisco%2520County/precip.png" alt="average temperture san francisco" title="average temperture san francisco" />
+<img src="http://www.rssweather.com/climate/California/San%2520Francisco%2520County/temp.png" alt="average temperture san francisco" title="average temperture san francisco" />
+<img src="http://www.bbc.co.uk/weather/world/images/country/barcharts/TT001520_sanfrancisco.gif" alt="average temperture san francisco" title="average temperture san francisco" />
+<img src="http://www.visitusa.org.uk/data/images/san_francisco_climate_temperature.jpg" alt="average temperture san francisco" title="average temperture san francisco" />
+<img src="http://www.drought.unl.edu/whatis/climographs/images/SanFranciscoMTMP.jpg" alt="average temperture san francisco" title="average temperture san francisco" />

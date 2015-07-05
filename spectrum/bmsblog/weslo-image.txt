@@ -1,0 +1,7 @@
+weslo image
+
+<img src="http://www.treadmill-world.com/files/weslo-cadence-c44-treadmill.jpg" alt="weslo image" title="weslo image" />
+<img src="http://www.homeellipticalmachines.com/images/products/weslo_momentum_620_1.jpg" alt="weslo image" title="weslo image" />
+<img src="http://www.homeellipticalmachines.com/images/products/weslo_momentum_620_3.jpg" alt="weslo image" title="weslo image" />
+<img src="http://www.weslo.com/wcsstore/Weslo/images/weslo-splash.jpg" alt="weslo image" title="weslo image" />
+<img src="http://www.treadmillreview.net/Weslo_C44_Treadmill.jpg" alt="weslo image" title="weslo image" />
