@@ -2,7 +2,7 @@
 
 $dbms = 'mysqli';
 
-$dburl = parse_url($_ENV['CLEARDB_DATBASE_URL']);
+$dburl = parse_url(getenv('CLEARDB_DATABASE_URL'));
 
 $dbhost = $dburl['host'];
 $dbport = $dburl['port'];
