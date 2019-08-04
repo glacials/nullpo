@@ -30,7 +30,9 @@ the name `glacials` would appear to all users instead as `glacials^`.
 
 ### My thoughts from today
 
-I have no idea why I created a new database connection to do this.
+I have no idea why I created a new database connection to do this. This also runs four queries per username displayed per pageload.
+This could have been combined into one query per username per pageload very easily, one query per pageload decently easily,
+and one query per long period of time (~day) with some light caching.
 
 I like that the code used existing user groups to manage status. The group IDs themselves are hardcoded in, and if I had
 the knowledge necessary (or the will to obtain it) this would have been a lot cleaner as a database column on the groups
